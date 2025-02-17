@@ -1,1 +1,1 @@
-# CodeWars_Java_2025
+## CodeWars_Java_2025
